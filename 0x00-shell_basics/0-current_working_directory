@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "script executed from: ${PWD}"
+echo ${PWD}
+
