@@ -2,4 +2,4 @@
 
 Task 0. Script to Print the absolute path name of the crrent working directory.
 Task 1. Script to display the contents list of your current directory
-
+Task 2. Script that changes the working directory to the user’s home directory.
