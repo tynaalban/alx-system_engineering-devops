@@ -7,4 +7,10 @@ Task 4. Write a script that creates an empty file called hello
 Task 5. Write a script that adds execute permission to the owner of the file hello.
 Task 6. Write a script that adds execute Multiple permissions
 Task 7. Write a script that adds execution permission everybody
+Task 8. Write a script that sets the permission to the file hello as follows: 007
+Task 9. Write a script that sets the mode of the file hello to this:753
+Task 10. Write a script that sets the mode of the file hello the same as olleh’s mode
+Task 11. Create a script that adds execute permission to all subdirectories
+Task 12.Create a script that creates a directory called my_dir with permissions 751 in the working directory.
+Task 13. Write a script that changes the group owner to school for the file hello
 
