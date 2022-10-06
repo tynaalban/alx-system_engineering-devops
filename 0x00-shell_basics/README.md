@@ -8,4 +8,6 @@ Task 4. Display current directory contents, including hidden files (starting wit
 Task 5. Display current directory contents in long for mat with hidden files. - I love numbers
 Task 6. A script that creates a directory named my first directory in the /tmp/ directory
 Task 7. Move the file betty
+Task 8. Delete betty
+Task 9.  Delete my first directory
 
