@@ -1,4 +1,4 @@
-       THIS README FILE ID TO DECRIBE THE SCRIPTS USED IN THIS PROJECT
+THIS README FILE ID TO DECRIBE THE SCRIPTS USED IN THIS PROJECT
 
 Task 0. Script to Print the absolute path name of the crrent working directory.
 Task 1. Script to display the contents list of your current directory
@@ -13,3 +13,5 @@ Task 9.  Delete my first directory
 Task 10 .script that changes the working directory to the previous one
 Task 11. script that lists all files
 Task 12. script that prints the type of the file
+Task 12. Create a symbolic link to
+Task 14. Copy HTML files
