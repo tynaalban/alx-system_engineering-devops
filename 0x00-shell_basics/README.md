@@ -10,4 +10,5 @@ Task 6. A script that creates a directory named my first directory in the /tmp/ 
 Task 7. Move the file betty
 Task 8. Delete betty
 Task 9.  Delete my first directory
+Task 10 .script that changes the working directory to the previous one.
 
